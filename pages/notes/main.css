@@ -8,7 +8,6 @@
 body {
 	background-image: url('../../icons/bg.gif');
     background-size: cover;
-    
 	display: flex;
 	align-items: center;
 	justify-content: center;
